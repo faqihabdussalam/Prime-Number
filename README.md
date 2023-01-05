@@ -1,4 +1,4 @@
 # Prime-Number
-Program code for determining prime numbers in the golang programming language
+Program code for determining prime numbers
 
-Kode program untuk menentukan bilangan prima dalam bahasa pemrograman golang
+Kode program untuk menentukan bilangan prima
